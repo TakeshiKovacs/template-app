@@ -1,2 +1,2 @@
 # template-app
-Template for backstage
+This is a template to use in backstage
