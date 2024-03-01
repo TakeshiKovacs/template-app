@@ -1,2 +1,2 @@
 # template-app
-This is a template to use in backstage
+This repository contains code for the {{ name }} web app
